@@ -1,0 +1,10 @@
+{
+  "commitish" : "3.0.0-beta.3",
+  "iOS" : [
+    {
+      "name" : "AlamofireNetworkActivityIndicator",
+      "hash" : "a875f11fc9dbef3e7b3a9898da27f419e7bcee356e317d1977531f7fd5a8119b",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}
